@@ -1,2 +1,2 @@
 # Flappy-Bird-AI
-The game Flappy Bird is run and then optimised using the neat algorithm
+The neat algorithm generates a neural network which is optimised by learning how to play the game flappy bird
